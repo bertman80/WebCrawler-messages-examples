@@ -1,4 +1,4 @@
-# WebCrawler-trebnie-messages
+# WebCrawler trebnie messages
 Simple WebCrawler script that will list the items of all the post that are on my site
 
 This is a simple example of a webcrawler that will list the messages of my site (www.trebnie.nl).
