@@ -9,8 +9,8 @@ BeautifulSoup4:<br>
 <hr>
 You can run it within Python3<br>
 <b>exec(open('WebScraping_trebnie.py').read())</b><br>
-After running this script the variable 'ds' available.<br>
-'ds' contains the collected messages.
+After running this script the variable '<b>ds</b>' available.<br>
+'<b>ds</b>' contains the collected messages.
 <hr>
 Run outside Python3: <br>
 <b>python3 WebScraping_trebnie.py</b>
