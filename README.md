@@ -9,8 +9,8 @@ BeautifulSoup4:<br>
 <hr>
 You can run it within Python3<br>
 <hr>
-WebScraping-top-moviemeter.py: listing movies<br>
-WebScraping-trebnie-messages.py: example to get messages from my site<br>
+**WebScraping-top-moviemeter.py**: listing movies<br>
+**WebScraping-trebnie-messages.py**: example to get messages from my site<br>
 <hr>
 
 <b>exec(open('WebScraping_trebnie.py').read())</b><br>
